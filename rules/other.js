@@ -1,0 +1,17 @@
+export default {
+  'tsdoc/syntax': 'warn',
+  'promise/no-return-wrap': 'off',
+  'promise/always-return': 'off',
+  'promise/param-names': 'off',
+  'promise/catch-or-return': 'off',
+  'promise/no-native': 'off',
+  'promise/no-nesting': 'warn',
+  'promise/no-promise-in-callback': 'warn',
+  'promise/no-callback-in-promise': 'off',
+  'promise/avoid-new': 'error',
+  'promise/no-new-statics': 'error',
+  'promise/no-return-in-finally': 'warn',
+  'promise/valid-params': 'warn',
+  'promise/no-multiple-resolved': 'warn',
+  'sort-destructure-keys/sort-destructure-keys': 'error',
+};
